@@ -1,2 +1,2 @@
-# goit-js-hw-05
-My first  JavaScript project, part 5
+# goit-js-hw-6
+My first  JavaScript project, part 6
